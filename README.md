@@ -20,7 +20,7 @@
 4. NPTEL Digital Systems and Verilog
 5. [Eda playground](https://www.edaplayground.com/) for practicing codes
 
-Apart from these ask students to learn
+## Apart from these one must learn
 1. Linux commands 
 2. Makefile
 3. Bash/shell scripting
