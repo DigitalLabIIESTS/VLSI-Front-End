@@ -26,5 +26,5 @@
 2. Makefile
 3. Bash/shell scripting
 4. Perl / python scripting
-5. Atleast one industry standard protocol - example, AMBA, RISC5, PCIe, etc.
+5. Atleast one industry standard protocol - example, AMBA (AXI), RISC5, PCIe, etc.
 6. TCL
