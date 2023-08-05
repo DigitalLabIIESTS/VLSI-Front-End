@@ -3,7 +3,7 @@
 ## Topics to cover for Verification
 1. Digital systems
 2. Verilog
-3. System verilog
+3. System Verilog
 4. Static Timing Analysis (STA)
 5. UVM
 
@@ -20,11 +20,13 @@
 3. [Doulos](https://www.doulos.com/knowhow/systemverilog/systemverilog-tutorials/) for System Verilog  
 4. NPTEL Digital Systems and Verilog
 5. [Eda playground](https://www.edaplayground.com/) for practicing codes
+6. [Advanced Resources on System Verilog and UVM](http://www.sunburst-design.com/)
+7. Books by Stuart Sutherland(https://www.sutherland-hdl.com/)
 
 ## Apart from these one must learn
 1. Linux commands 
 2. Makefile
 3. Bash/shell scripting
-4. Perl / python scripting
-5. Atleast one industry standard protocol - example, AMBA (AXI), RISC5, PCIe, etc.
+4. Perl / Python scripting
+5. At least one industry-standard protocol - for example, AMBA (AXI), RISC5, PCIe, etc.
 6. TCL
