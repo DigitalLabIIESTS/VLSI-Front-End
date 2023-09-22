@@ -10,7 +10,7 @@
 ## Resources
 ### Books
 1. IEEE LRM for [System Verilog](https://www.francisz.cn/download/IEEE_Standard_1800-2012%20SystemVerilog.pdf) and [Verilog](https://www.eg.bucknell.edu/~csci320/2016-fall/wp-content/uploads/2015/08/verilog-std-1364-2005.pdf).
-2. LRM for [System Verilog](http://courses.eees.dei.unibo.it/LABMPHSENG/wp-content/uploads/2016/02/SystemVerilog_3.1a.pdf)
+2. LRM for [System Verilog](http://www.ece.uah.edu/~gaede/cpe526/SystemVerilog_3.1a.pdf)
 3. Writing Testbenches: Functional Verification of HDL Models by Janick Bergeron.
 4. System Verilog for Verification: A Guide to Learning the Testbench Language Features by Chris Spear.
 5. Static Timing Analysis for Nanometer Designs A Practical Approach by J. Bhasker and Rakesh Chadha.
