@@ -24,6 +24,12 @@
 6. [Advanced Resources on System Verilog and UVM](http://www.sunburst-design.com/)
 7. Books by Stuart Sutherland(https://www.sutherland-hdl.com/)
 
+### Youtube Channels
+1. Anas Salah Eddin https://www.youtube.com/@anassalaheddin1258
+2. H. R. LEPROFESSEUR https://www.youtube.com/@Leprofesseur
+3. Vipin Kizheppatt https://www.youtube.com/@TheVipinkmenon
+4. Mohammad S. Sadri https://www.youtube.com/@MohammadSSadri
+5. Michael ee https://www.youtube.com/@Michael_ee
 ## Apart from these one must learn
 1. Linux commands 
 2. Makefile
