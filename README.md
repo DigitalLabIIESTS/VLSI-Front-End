@@ -13,7 +13,7 @@
 2. LRM for [System Verilog](http://www.ece.uah.edu/~gaede/cpe526/SystemVerilog_3.1a.pdf)
 3. Writing Testbenches: Functional Verification of HDL Models by Janick Bergeron.
 4. System Verilog for Verification: A Guide to Learning the Testbench Language Features by Chris Spear.
-5. Static Timing Analysis for Nanometer Designs A Practical Approach by J. Bhasker and Rakesh Chadha.
+5. Static Timing Analysis for Nanometer Designs: A Practical Approach by J. Bhasker and Rakesh Chadha.
 
 ### Web
 1. [Chipverify](https://www.chipverify.com/) for System Verilog, UVM.
@@ -23,6 +23,7 @@
 5. [Eda playground](https://www.edaplayground.com/) for practicing codes
 6. [Advanced Resources on System Verilog and UVM](http://www.sunburst-design.com/)
 7. Books by Stuart Sutherland(https://www.sutherland-hdl.com/)
+8. [EE 4755, Digital Design Using HDLs](https://www.ece.lsu.edu/koppel/v/)
 
 ### Youtube Channels
 1. Anas Salah Eddin https://www.youtube.com/@anassalaheddin1258
@@ -30,7 +31,7 @@
 3. Vipin Kizheppatt https://www.youtube.com/@TheVipinkmenon
 4. Mohammad S. Sadri https://www.youtube.com/@MohammadSSadri
 5. Michael ee https://www.youtube.com/@Michael_ee
-## Apart from these one must learn
+## Apart from these, one must learn
 1. Linux commands 
 2. Makefile
 3. Bash/shell scripting
